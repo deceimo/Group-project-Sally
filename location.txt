@@ -1,0 +1,356 @@
+N Ming's house
+N Seiya's house
+N Big C Prachauthit
+N Wat Thung khru
+N Sun's house
+N Maxvalu Prachauthit
+N Lotus Prachauthit
+N Market 61
+N Tungkru plaza
+N Chaloem Phrakiat Sport Training center
+N Food court Suanmark
+N The Bright Rama II
+N Central Rama II
+N KMUTT
+N Bangmod
+N Milo's house
+N Migo's medical supplies
+N Prachauthit junction
+N Big C Suksawat
+N Suksawat market
+N Bangpakok market
+N Big C Ratburana
+N Big C Bangpakok
+N Indy market Dao Khanong
+N Big C Dao Khanong
+N Bukkhalo junction
+N Mahaisawan intersection
+N The Mall Thapra
+N Somdech Phra Pinklao hospital
+N Samitivej Thonburi hospital
+N Tak Sin intersection
+N Wongwian Yai BTS station
+N Krung Thonburi BTS station
+N Sena Fest Shopping mall
+N Riverside plaza
+N Avani Riverside hotel
+N Asiatique the riverfront
+N Shrewbury school
+N Saphan Taksin BTS station
+N Surasak BTS station
+N Saint Louis Hospital
+N Chong Nonsi BTS station
+N King Power Mahanakhorn tower
+N Silom Complex
+N Saladaeng BTS station
+N Lumphini park
+N King Chulalongkorn Memorial hospital
+N The Thai red cross society
+N Ratchadamri BTS station
+N Central World
+N Ratchaprasong intersection
+N Siam Paragon
+N Siam square
+N Siam BTS station
+N Triam Udom Suksa school
+N Chamchuri square
+N Samyam mitrtown
+N Wat Traimit
+N Yaowarat China town
+N Wat Mangkon MRT station
+N India Emporium
+N Suankularb school
+N Wat Phra Chetuphon
+N Wat Pho
+N Wat Phra Kaew
+N Temple of the Emerald Buddha
+N Wat Phra Si Rattana Satsadaram
+N Suksanari school
+N Ban Khaek intersection
+N Wongwian Yai
+N King Taksin the great statue
+N Millennium Hilton hotel
+N Icon Siam
+N Charoen Nakorn BTS station
+V 1
+Ming's house
+V 1
+Seiya's house
+V 1
+Big C Prachauthit
+V 1
+Wat Thung khru
+V 1
+Sun's house
+V 1
+Maxvalu Prachauthit
+V 1
+Lotus Prachauthit
+V 2
+Market 61
+Tungkru plaza
+V 1
+Chaloem Phrakiat Sport Training center
+V 1
+Food court Suanmark
+V 1
+The Bright Rama II
+V 1
+Central Rama II
+V 2
+KMUTT
+Bangmod
+V 2
+Milo's house
+Migo's medical supplies
+V 1
+Prachauthit junction
+V 1
+Big C Suksawat
+V 1
+Suksawat market
+V 1
+Bangpakok market
+V 1
+Big C Ratburana
+V 1
+Big C Bangpakok
+V 1
+Indy market Dao Khanong
+V 1
+Big C Dao Khanong
+V 1
+Bukkhalo junction
+V 1
+Mahaisawan intersection
+V 1
+The Mall Thapra
+V 1
+Somdech Phra Pinklao hospital
+V 1
+Samitivej Thonburi hospital
+V 1
+Tak Sin intersection
+V 1
+Wongwian Yai BTS station
+V 1
+Krung Thonburi BTS station
+V 1
+Sena Fest Shopping mall
+V 2
+Riverside plaza
+Avani Riverside hotel
+V 1
+Asiatique the riverfront
+V 1
+Shrewbury school
+V 1
+Saphan Taksin BTS station
+V 1
+Surasak BTS station
+V 1
+Saint Louis Hospital
+V 2
+Chong Nonsi BTS station
+King Power Mahanakhorn tower
+V 2
+Silom Complex
+Saladaeng BTS station
+V 1
+Lumphini park
+V 2
+King Chulalongkorn Memorial hospital
+The Thai red cross society
+V 1
+Ratchadamri BTS station
+V 2
+Central World
+Ratchaprasong intersection
+V 3
+Siam Paragon
+Siam square
+Siam BTS station
+V 1
+Triam Udom Suksa school
+V 1
+Chamchuri square
+V 1
+Samyam mitrtown
+V 1
+Wat Traimit
+V 2
+Yaowarat China town
+Wat Mangkon MRT station
+V 1
+India Emporium
+V 1
+Suankularb school
+V 2
+Wat Phra Chetuphon
+Wat Pho
+V 3
+Wat Phra Kaew
+Temple of the Emerald Buddha
+Wat Phra Si Rattana Satsadaram
+V 1
+Suksanari school
+V 1
+Ban Khaek intersection
+V 2
+Wongwian Yai
+King Taksin the great statue
+V 1
+Millennium Hilton hotel
+V 2
+Icon Siam
+Charoen Nakorn BTS station
+E Ming's house|Seiya's house|4.8|Prachauthit road|W
+E Seiya's house|Ming's house|4.8|Prachauthit road|E
+E Seiya's house|Big C Prachauthit|1.6|Prachauthit road|W
+E Big C Prachauthit|Seiya's house|1.6|Prachauthit road|E
+E Big C Prachauthit|Wat Thung khru|1.4|Prachauthit road|W
+E Wat Thung khru|Big C Prachauthit|1.4|Prachauthit road|E
+E Wat Thung khru|Sun's house|1.1|Prachauthit road|W
+E Sun's house|Wat Thung khru|1.1|Prachauthit road|E
+E Wat Thung khru|Maxvalu Prachauthit|2.6|Prachauthit road|W
+E Maxvalu Prachauthit|Wat Thung khru|2.6|Prachauthit road|E
+E Wat Thung khru|Lotus Prachauthit|2.6|Prachauthit road|W
+E Lotus Prachauthit|Wat Thung khru|2.6|Prachauthit road|E
+E Maxvalu Prachauthit|Lotus Prachauthit|0.22|Prachauthit road|S
+E Lotus Prachauthit|Maxvalu Prachauthit|0.22|Prachauthit road|N
+E Maxvalu Prachauthit|Sun's house|3|Prachauthit road|E
+E Sun's house|Maxvalu Prachauthit|3|Prachauthit road|W
+E Lotus Prachauthit|Market 61|0.6|Prachauthit road|W
+E Market 61|Lotus Prachauthit|0.6|Prachauthit road|E
+E Maxvalu Prachauthit|Market 61|0.55|Prachauthit road|W
+E Market 61|Maxvalu Prachauthit|0.55|Prachauthit road|E
+E Market 61|Chaloem Phrakiat Sport Training center|0.75|Prachauthit road|W
+E Chaloem Phrakiat Sport Training center|Market 61|0.75|Prachauthit road|E
+E Market 61|KMUTT|1.1|Prachauthit road|W
+E KMUTT|Market 61|1.1|Prachauthit road|E
+E KMUTT|Chaloem Phrakiat Sport Training center|0.7|Prachauthit road|S
+E Chaloem Phrakiat Sport Training center|KMUTT|0.7|Prachauthit road|N
+E Chaloem Phrakiat Sport Training center|Food court Suanmark|0.95|Phutthabucha road|W
+E Food court Suanmark|Chaloem Phrakiat Sport Training center|0.95|Phutthabucha road|E
+E KMUTT|Milo's house|0.3|Prachauthit road|N
+E Milo's house|KMUTT|0.3|Prachauthit road|S
+E Milo's house|Prachauthit junction|2.4|Prachauthit road|N
+E Prachauthit junction|Milo's house|2.4|Prachauthit road|S
+E Prachauthit junction|Big C Suksawat|2.9|Suksawat road|E
+E Big C Suksawat|Prachauthit junction|2.9|Suksawat road|W
+E Big C Suksawat|Suksawat market|1.7|Suksawat road|E
+E Suksawat market|Big C Suksawat|1.7|Suksawat road|W
+E Suksawat market|Sun's house|2.7|Suksawat road|S
+E Sun's house|Suksawat market|2.7|Suksawat road|N
+E Prachauthit junction|Bangpakok market|0.85|Suksawat road|W
+E Bangpakok market|Prachauthit junction|0.85|Suksawat road|E
+E Prachauthit junction|Big C Ratburana|1.9|Ratburana road|N
+E Big C Ratburana|Prachauthit junction|1.9|Ratburana road|S
+E Bangpakok market|Big C Ratburana|1.7|Ratburana road|N
+E Big C Ratburana|Bangpakok market|1.7|Ratburana road|S
+E Bangpakok market|Big C Bangpakok|1|Suksawat road|W
+E Big C Bangpakok|Bangpakok market|1|Suksawat road|E
+E Big C Bangpakok|The Bright Rama II|4.8|Rama II road|S
+E The Bright Rama II|Big C Bangpakok|4.8|Rama II road|N
+E The Bright Rama II|Food court Suanmark|7.6|Rama II soi 33|E
+E Food court Suanmark|The Bright Rama II|6.5|Rama II soi 33|W
+E The Bright Rama II|Central Rama II|2.3|Rama II road|S
+E Central Rama II|The Bright Rama II|2.3|Rama II road|N
+E Big C Bangpakok|Indy market Dao Khanong|1.6|Suksawat road|W
+E Indy market Dao Khanong|Big C Bangpakok|1.6|Suksawat road|E
+E Indy market Dao Khanong|Big C Dao Khanong|0.9|Somdet phra chao taksin road|W
+E Big C Dao Khanong|Indy market Dao Khanong|0.9|Somdet phra chao taksin road|E
+E Big C Dao Khanong|Mahaisawan intersection|0.6|Somdet phra chao taksin road|N
+E Mahaisawan intersection|Big C Dao Khanong|0.6|Somdet phra chao taksin road|S
+E Mahaisawan intersection|The Mall Thapra|1.3|Ratchadaphisek road|W
+E The Mall Thapra|Mahaisawan intersection|1.3|Ratchadaphisek road|E
+E Mahaisawan intersection|Bukkhalo junction|0.35|Rama III road|E
+E Bukkhalo junction|Mahaisawan intersection|0.35|Rama III road|W
+E Bukkhalo junction|Big C Ratburana|3.1|Ratburana road|E
+E Big C Ratburana|Bukkhalo junction|3.1|Ratburana road|W
+E Mahaisawan intersection|Somdech Phra Pinklao hospital|0.55|Somdet phra chao taksin road|N
+E Somdech Phra Pinklao hospital|Mahaisawan intersection|0.55|Somdet phra chao taksin road|S
+E Somdech Phra Pinklao hospital|Samitivej Thonburi hospital|0.7|Somdet phra chao taksin road|N
+E Samitivej Thonburi hospital|Somdech Phra Pinklao hospital|0.7|Somdet phra chao taksin road|S
+E Samitivej Thonburi hospital|Tak Sin intersection|0.7|Somdet phra chao taksin road|N
+E Tak Sin intersection|Samitivej Thonburi hospital|0.7|Somdet phra chao taksin road|S
+E Tak Sin intersection|Wongwian Yai BTS station|0.27|Krung thonburi road|E
+E Wongwian Yai BTS station|Tak Sin intersection|0.27|Krung thonburi road|W
+E Wongwian Yai BTS station|Krung Thonburi BTS station|0.67|Krung thonburi road|E
+E Krung Thonburi BTS station|Wongwian Yai BTS station|0.67|Krung thonburi road|W
+E Bukkhalo junction|Riverside plaza|0.45|Charoen nakhon road|N
+E Riverside plaza|Bukkhalo junction|0.45|Charoen nakhon road|S
+E Bukkhalo junction|Asiatique the riverfront|2|Charoen krung road|N
+E Asiatique the riverfront|Bukkhalo junction|2|Charoen krung road|S
+E Asiatique the riverfront|Shrewbury school|0.9|Charoen krung road|N
+E Shrewbury school|Asiatique the riverfront|0.9|Charoen krung road|S
+E Shrewbury school|Surasak BTS station|1.9|Charoen krung road|N
+E Surasak BTS station|Shrewbury school|1.9|Charoen krung road|S
+E Surasak BTS station|Saint Louis Hospital|0.28|North sathon road|N
+E Saint Louis Hospital|Surasak BTS station|0.28|North sathon road|S
+E Saint Louis Hospital|Chong Nonsi BTS station|0.9|North sathon road|N
+E Chong Nonsi BTS station|Saint Louis Hospital|0.9|North sathon road|S
+E Chong Nonsi BTS station|Silom Complex|1|Silom road|N
+E Silom Complex|Chong Nonsi BTS station|1|Silom road|S
+E Silom Complex|Lumphini park|0.35|Silom road|N
+E Lumphini park|Silom Complex|0.35|Silom road|S
+E Lumphini park|King Chulalongkorn Memorial hospital|0.4|Rama IV road|W
+E King Chulalongkorn Memorial hospital|Lumphini park|0.4|Rama IV road|E
+E Silom Complex|King Chulalongkorn Memorial hospital|0.5|Silom road|N
+E King Chulalongkorn Memorial hospital|Silom Complex|0.5|Silom road|S
+E King Chulalongkorn Memorial hospital|Ratchadamri BTS station|1.4|Ratchadamri road|N
+E Ratchadamri BTS station|King Chulalongkorn Memorial hospital|1.4|Ratchadamri road|S
+E Ratchadamri BTS station|Central World|1.5|Ratchadamri road|N
+E Central World|Ratchadamri BTS station|1.5|Ratchadamri road|S
+E Central World|Siam Paragon|0.6|Rama I road|W
+E Siam Paragon|Central World|0.6|Rama I road|E
+E Siam Paragon|Triam Udom Suksa school|1.1|Henri dunant road|S
+E Triam Udom Suksa school|Siam Paragon|1.1|Henri dunant road|N
+E Triam Udom Suksa school|Chamchuri square|1.3|Henri dunant road|S
+E Chamchuri square|Triam Udom Suksa school|1.3|Henri dunant road|N
+E King Chulalongkorn Memorial hospital|Chamchuri square|0.4|Rama IV road|W
+E Chamchuri square|King Chulalongkorn Memorial hospital|0.4|Rama IV road|E
+E Chamchuri square|Samyam mitrtown|0.35|Rama IV road|W
+E Samyam mitrtown|Chamchuri square|0.35|Rama IV road|E
+E Samyam mitrtown|Wat Traimit|2|Rama IV road|S
+E Wat Traimit|Samyam mitrtown|2|Rama IV road|N
+E Wat Traimit|Yaowarat China town|0.7|Charoen krung road|N
+E Yaowarat China town|Wat Traimit|0.7|Charoen krung road|S
+E Yaowarat China town|Samyam mitrtown|2.2|Rama IV road|E
+E Samyam mitrtown|Yaowarat China town|2.2|Rama IV road|W
+E Yaowarat China town|India Emporium|1.2|Charoen krung road|W
+E India Emporium|Yaowarat China town|1.2|Charoen krung road|E
+E India Emporium|Suankularb school|0.65|Phahurat road|W
+E Suankularb school|India Emporium|0.65|Phahurat road|E
+E Suankularb school|Wat Pho|1.2|Sanam chai road|W
+E Wat Pho|Suankularb school|1.2|Sanam chai road|E
+E Wat Pho|Wat Phra Kaew|0.55|Sanam chai road|N
+E Wat Phra Kaew|Wat Pho|0.55|Sanam chai road|S
+E India Emporium|Suksanari school|1.1|Phra pokklao road|S
+E Suksanari school|India Emporium|1.1|Phra pokklao road|N
+E Suksanari school|Ban Khaek intersection|0.4|Prajadhipok road|S
+E Ban Khaek intersection|Suksanari school|0.4|Prajadhipok road|N
+E Ban Khaek intersection|Wongwian Yai|0.4|Prajadhipok road|S
+E Wongwian Yai|Ban Khaek intersection|0.4|Prajadhipok road|N
+E Wongwian Yai|Tak Sin intersection|0.55|Somdet phra chao taksin road|S
+E Tak Sin intersection|Wongwian Yai|0.55|Somdet phra chao taksin road|N
+E Suksanari school|Millennium Hilton hotel|1.7|Somdet chao praya road|E
+E Millennium Hilton hotel|Suksanari school|1.7|Somdet chao praya road|W
+E Ban Khaek intersection|Millennium Hilton hotel|1.8|Itsaraphap road|E
+E Millennium Hilton hotel|Ban Khaek intersection|1.8|Itsaraphap road|W
+E Wongwian Yai|Millennium Hilton hotel|1.9|Lat ya road|E
+E Millennium Hilton hotel|Wongwian Yai|1.9|Lat ya road|W
+E Millennium Hilton hotel|Icon Siam|0.3|Charoen nakhon road|S
+E Icon Siam|Millennium Hilton hotel|0.3|Charoen nakhon road|N
+E Icon Siam|Sena Fest Shopping mall|1|Charoen nakhon road|S
+E Sena Fest Shopping mall|Icon Siam|1|Charoen nakhon road|N
+E Icon Siam|Krung Thonburi BTS station|1.2|Charoen nakhon road|W
+E Krung Thonburi BTS station|Icon Siam|1.2|Charoen nakhon road|E
+E Krung Thonburi BTS station|Sena Fest Shopping mall|0.5|Krung thonburi road|E
+E Sena Fest Shopping mall|Krung Thonburi BTS station|0.5|Krung thonburi road|W
+E Sena Fest Shopping mall|Riverside plaza|2.5|Charoen nakhon road|S
+E Riverside plaza|Sena Fest Shopping mall|2.5|Charoen nakhon road|N
+E Krung Thonburi BTS station|Saphan Taksin BTS station|1.3|Krung thonburi road|E
+E Saphan Taksin BTS station|Krung Thonburi BTS station|1.3|Krung thonburi road|W
+E Saphan Taksin BTS station|Surasak BTS station|0.65|North sathon road|E
+E Surasak BTS station|Saphan Taksin BTS station|0.65|North sathon road|W
